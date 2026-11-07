@@ -1,0 +1,26 @@
+# Core data handling
+pandas==2.2.3
+numpy==1.26.4
+
+# Database connection
+sqlalchemy==2.0.36
+psycopg2-binary==2.9.10
+python-dotenv==1.0.1
+
+# Visualization
+matplotlib==3.9.2
+seaborn==0.13.2
+plotly==5.24.1
+
+# Machine learning
+scikit-learn==1.5.2
+
+# Time series forecasting
+prophet==1.1.6
+
+# Dashboard
+streamlit==1.39.0
+
+# Jupyter
+jupyterlab==4.3.0
+ipykernel==6.29.5
